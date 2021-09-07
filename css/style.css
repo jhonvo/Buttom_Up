@@ -1,0 +1,32 @@
+button{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    display: block;
+    margin: 3px;
+}
+
+.search{
+    color:mediumaquamarine;
+    background-color: white;
+    border: 1px solid mediumaquamarine;
+    border-radius: 10px;
+    height: 20 px;
+    width: 90px;
+}
+
+.plus{
+    border-radius: 15px;
+    width: 30px;
+    height: 30px;
+    background-color:mediumaquamarine;
+    border: 0;
+    color: white;
+}
+
+.create{
+    border: 1px solid black;
+    color: white;
+    background-color:navy;
+    width: 130px;
+    height: 30 px;
+    box-shadow: 3px 3px black;
+}
